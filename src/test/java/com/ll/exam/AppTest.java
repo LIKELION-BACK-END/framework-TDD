@@ -9,6 +9,7 @@ import java.util.List;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class AppTest {
+
     @Test
     public void junit_assertThat() {
         int rs = 10 + 20;
